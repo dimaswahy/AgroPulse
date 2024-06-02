@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "889417736462",
+    "firebase_url": "https://agropulse-e6818.firebaseio.com",
+    "project_id": "agropulse-e6818",
+    "storage_bucket": "agropulse-e6818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889417736462:android:29baccbc9c45c5134b775f",
+        "android_client_info": {
+          "package_name": "com.example.agropulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiA746a6QjPwhRn3KrkplucbvPbYyPk-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
